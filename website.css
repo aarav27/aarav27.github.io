@@ -1,0 +1,46 @@
+html{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+.page-title{
+    text-align: center;
+}
+
+.navbar{
+    background-color: rgb(204, 41, 41);
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav-list{
+    text-align: right;
+}
+
+.nav-list a{
+    margin-left: 25px;
+    margin-right: 25px;
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
