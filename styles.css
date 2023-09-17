@@ -1,0 +1,24 @@
+body {
+    font-size: 16px;
+}
+
+.page-title{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.navbar{
+    background-color: rgb(14, 202, 216);
+}
+
+.about-text{
+    background-color: yellow;
+    color: red
+}
+
+input[required] {
+    letter-spacing: 2px;
+    text-decoration: underline;
+  }
+
