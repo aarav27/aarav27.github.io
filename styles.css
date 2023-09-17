@@ -13,7 +13,7 @@ body {
     color:white
 }
 
-.about-text{
+.section-title, .project, .about-text{
     background-color: yellow;
     color: red
 }
