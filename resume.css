@@ -1,0 +1,26 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-title{
+    font-size: 26px
+}
+
+.entry-title{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.entry-info{
+    font-size: 15px;
+    font-style: oblique;
+}
+.entry-description{
+    font-size: 15px;
+}
+
+.course-list, .skill-list{
+    font-size: 15px
+}
