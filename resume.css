@@ -24,6 +24,10 @@
     margin-bottom: 20px;
 }
 
+.section:hover{
+    background-color: aquamarine;
+}
+
 .section-title{
     font-size: 26px
 }
