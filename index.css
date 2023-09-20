@@ -1,0 +1,17 @@
+.about-text{
+    text-align: center;
+}
+
+.about-images{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.about-images img{
+    width: 30%
+}
+  
+  
+  
+  
